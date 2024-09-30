@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Applications/patika-cource/MyFirstApp/MyFirstApp.csproj": {}
+    "/Applications/cources/patika/MyFirstApp/MyFirstApp.csproj": {}
   },
   "projects": {
-    "/Applications/patika-cource/MyFirstApp/MyFirstApp.csproj": {
+    "/Applications/cources/patika/MyFirstApp/MyFirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Applications/patika-cource/MyFirstApp/MyFirstApp.csproj",
+        "projectUniqueName": "/Applications/cources/patika/MyFirstApp/MyFirstApp.csproj",
         "projectName": "MyFirstApp",
-        "projectPath": "/Applications/patika-cource/MyFirstApp/MyFirstApp.csproj",
+        "projectPath": "/Applications/cources/patika/MyFirstApp/MyFirstApp.csproj",
         "packagesPath": "/Users/murataltinisik/.nuget/packages/",
-        "outputPath": "/Applications/patika-cource/MyFirstApp/obj/",
+        "outputPath": "/Applications/cources/patika/MyFirstApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/murataltinisik/.nuget/NuGet/NuGet.Config"
