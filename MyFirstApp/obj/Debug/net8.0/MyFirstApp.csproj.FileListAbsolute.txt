@@ -1,0 +1,15 @@
+/Applications/patika-cource/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/Applications/patika-cource/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/Applications/patika-cource/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/Applications/patika-cource/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/Applications/patika-cource/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
+/Applications/patika-cource/MyFirstApp/obj/Debug/net8.0/MyFirstApp.sourcelink.json
