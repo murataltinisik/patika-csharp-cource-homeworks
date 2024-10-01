@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\bin\Debug\net8.0\Variables.exe
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\bin\Debug\net8.0\Variables.dll
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.dll
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll
