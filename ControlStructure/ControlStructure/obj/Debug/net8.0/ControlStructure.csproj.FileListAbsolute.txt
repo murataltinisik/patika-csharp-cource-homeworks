@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\bin\Debug\net8.0\ControlStructure.exe
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\bin\Debug\net8.0\ControlStructure.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\bin\Debug\net8.0\ControlStructure.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\bin\Debug\net8.0\ControlStructure.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\bin\Debug\net8.0\ControlStructure.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\refint\ControlStructure.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ControlStructure.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure\ControlStructure\obj\Debug\net8.0\ref\ControlStructure.dll
