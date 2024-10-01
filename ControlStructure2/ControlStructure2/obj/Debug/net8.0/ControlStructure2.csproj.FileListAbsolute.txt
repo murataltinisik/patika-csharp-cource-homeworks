@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\bin\Debug\net8.0\ControlStructure2.exe
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\bin\Debug\net8.0\ControlStructure2.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\bin\Debug\net8.0\ControlStructure2.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\bin\Debug\net8.0\ControlStructure2.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\bin\Debug\net8.0\ControlStructure2.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\refint\ControlStructure2.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ControlStructure2.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ControlStructure2\ControlStructure2\obj\Debug\net8.0\ref\ControlStructure2.dll
