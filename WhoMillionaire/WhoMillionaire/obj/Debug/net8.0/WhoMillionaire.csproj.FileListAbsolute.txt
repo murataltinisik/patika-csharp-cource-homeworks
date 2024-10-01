@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\bin\Debug\net8.0\WhoMillionaire.exe
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\bin\Debug\net8.0\WhoMillionaire.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\bin\Debug\net8.0\WhoMillionaire.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\bin\Debug\net8.0\WhoMillionaire.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\bin\Debug\net8.0\WhoMillionaire.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\refint\WhoMillionaire.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\WhoMillionaire.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhoMillionaire\WhoMillionaire\obj\Debug\net8.0\ref\WhoMillionaire.dll
