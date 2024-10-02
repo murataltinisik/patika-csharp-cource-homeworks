@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\bin\Debug\net8.0\ForLoop.exe
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\bin\Debug\net8.0\ForLoop.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\bin\Debug\net8.0\ForLoop.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\bin\Debug\net8.0\ForLoop.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\bin\Debug\net8.0\ForLoop.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\refint\ForLoop.dll
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ForLoop.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\ForLoop\ForLoop\obj\Debug\net8.0\ref\ForLoop.dll
