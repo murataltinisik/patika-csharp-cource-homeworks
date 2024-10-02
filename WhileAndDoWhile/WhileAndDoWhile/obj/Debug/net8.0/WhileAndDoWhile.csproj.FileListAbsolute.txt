@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.exe
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\refint\WhileAndDoWhile.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net8.0\ref\WhileAndDoWhile.dll

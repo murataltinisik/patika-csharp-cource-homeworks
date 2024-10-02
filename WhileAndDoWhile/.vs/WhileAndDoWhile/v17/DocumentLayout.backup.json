@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileAndDoWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C8E93-3846-404E-BAC3-6E4B851F9E49}|_02WhileAndDoWhile\\_02WhileAndDoWhile.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileanddowhile\\_02whileanddowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C8E93-3846-404E-BAC3-6E4B851F9E49}|_02WhileAndDoWhile\\_02WhileAndDoWhile.csproj|solutionrelative:_02whileanddowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3DAEDA-55D7-492F-A0EB-62D75FB47D31}|WhileAndDoWhile\\WhileAndDoWhile.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileanddowhile\\whileanddowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3DAEDA-55D7-492F-A0EB-62D75FB47D31}|WhileAndDoWhile\\WhileAndDoWhile.csproj|solutionrelative:whileanddowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileAndDoWhile\\_02WhileAndDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "_02WhileAndDoWhile\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileAndDoWhile\\_02WhileAndDoWhile\\Program.cs",
+              "RelativeToolTip": "_02WhileAndDoWhile\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:28:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileAndDoWhile\\WhileAndDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "WhileAndDoWhile\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileAndDoWhile\\WhileAndDoWhile\\Program.cs",
+              "RelativeToolTip": "WhileAndDoWhile\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:06:16.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
