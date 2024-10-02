@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\bin\Debug\net8.0\HolidayApp.exe
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\bin\Debug\net8.0\HolidayApp.deps.json
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\bin\Debug\net8.0\HolidayApp.runtimeconfig.json
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\bin\Debug\net8.0\HolidayApp.dll
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\bin\Debug\net8.0\HolidayApp.pdb
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.AssemblyInfo.cs
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.sourcelink.json
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.dll
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\refint\HolidayApp.dll
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.pdb
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\HolidayApp.genruntimeconfig.cache
+C:\Users\pc\Desktop\patika\patika-csharp-cource-homeworks\HolidayApp\HolidayApp\obj\Debug\net8.0\ref\HolidayApp.dll

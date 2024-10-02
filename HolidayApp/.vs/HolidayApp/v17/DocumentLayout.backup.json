@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\patika\\patika-csharp-cource-homeworks\\HolidayApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B3D579-4AC4-44C1-8035-5197F9030285}|HolidayApp\\HolidayApp.csproj|c:\\users\\pc\\desktop\\patika\\patika-csharp-cource-homeworks\\holidayapp\\holidayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B3D579-4AC4-44C1-8035-5197F9030285}|HolidayApp\\HolidayApp.csproj|solutionrelative:holidayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\patika\\patika-csharp-cource-homeworks\\HolidayApp\\HolidayApp\\Program.cs",
+              "RelativeDocumentMoniker": "HolidayApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\patika\\patika-csharp-cource-homeworks\\HolidayApp\\HolidayApp\\Program.cs",
+              "RelativeToolTip": "HolidayApp\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:06:52.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
