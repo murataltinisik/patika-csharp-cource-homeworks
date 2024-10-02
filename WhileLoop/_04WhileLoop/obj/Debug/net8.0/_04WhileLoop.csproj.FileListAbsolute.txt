@@ -1,0 +1,15 @@
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\bin\Debug\net8.0\_04WhileLoop.exe
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\bin\Debug\net8.0\_04WhileLoop.deps.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\bin\Debug\net8.0\_04WhileLoop.runtimeconfig.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\bin\Debug\net8.0\_04WhileLoop.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\bin\Debug\net8.0\_04WhileLoop.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.AssemblyInfoInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.AssemblyInfo.cs
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.csproj.CoreCompileInputs.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.sourcelink.json
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\refint\_04WhileLoop.dll
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.pdb
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\_04WhileLoop.genruntimeconfig.cache
+D:\c-sharp\patika-csharp-cource-homeworks\WhileLoop\_04WhileLoop\obj\Debug\net8.0\ref\_04WhileLoop.dll

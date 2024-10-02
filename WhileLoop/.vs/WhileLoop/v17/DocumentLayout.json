@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6D5CE-ED79-407E-B8D8-997ED0ED119C}|_05WhileLoop\\_05WhileLoop.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileloop\\_05whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6D5CE-ED79-407E-B8D8-997ED0ED119C}|_05WhileLoop\\_05WhileLoop.csproj|solutionrelative:_05whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5966231A-4E8E-47B4-AB1F-209E87F6809F}|_04WhileLoop\\_04WhileLoop.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileloop\\_04whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966231A-4E8E-47B4-AB1F-209E87F6809F}|_04WhileLoop\\_04WhileLoop.csproj|solutionrelative:_04whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AACDE9E-78BD-45B3-B00E-6324ADDF0983}|_03WhileLoop\\_03WhileLoop.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileloop\\_03whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AACDE9E-78BD-45B3-B00E-6324ADDF0983}|_03WhileLoop\\_03WhileLoop.csproj|solutionrelative:_03whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4660-7EF9-44D4-80C8-1E57829CCCFA}|_02WhileLoop\\_02WhileLoop.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileloop\\_02whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEB4660-7EF9-44D4-80C8-1E57829CCCFA}|_02WhileLoop\\_02WhileLoop.csproj|solutionrelative:_02whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DC6474-4838-48F0-9197-67E5DA4B4E97}|WhileLoop\\WhileLoop.csproj|d:\\c-sharp\\patika-csharp-cource-homeworks\\whileloop\\whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DC6474-4838-48F0-9197-67E5DA4B4E97}|WhileLoop\\WhileLoop.csproj|solutionrelative:whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_05WhileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "_05WhileLoop\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_05WhileLoop\\Program.cs",
+              "RelativeToolTip": "_05WhileLoop\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:56:53.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_04WhileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "_04WhileLoop\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_04WhileLoop\\Program.cs",
+              "RelativeToolTip": "_04WhileLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:54:18.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_03WhileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "_03WhileLoop\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_03WhileLoop\\Program.cs",
+              "RelativeToolTip": "_03WhileLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:52:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_02WhileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "_02WhileLoop\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\_02WhileLoop\\Program.cs",
+              "RelativeToolTip": "_02WhileLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:51:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\WhileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "WhileLoop\\Program.cs",
+              "ToolTip": "D:\\c-sharp\\patika-csharp-cource-homeworks\\WhileLoop\\WhileLoop\\Program.cs",
+              "RelativeToolTip": "WhileLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:49:42.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
