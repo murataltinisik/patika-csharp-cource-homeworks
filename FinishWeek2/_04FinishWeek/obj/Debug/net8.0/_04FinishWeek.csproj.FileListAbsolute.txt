@@ -1,0 +1,15 @@
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.AssemblyInfoInputs.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.AssemblyInfo.cs
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.csproj.CoreCompileInputs.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.sourcelink.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\bin\Debug\net8.0\_04FinishWeek.exe
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\bin\Debug\net8.0\_04FinishWeek.deps.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\bin\Debug\net8.0\_04FinishWeek.runtimeconfig.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\bin\Debug\net8.0\_04FinishWeek.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\bin\Debug\net8.0\_04FinishWeek.pdb
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\refint\_04FinishWeek.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.pdb
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\_04FinishWeek.genruntimeconfig.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\_04FinishWeek\obj\Debug\net8.0\ref\_04FinishWeek.dll

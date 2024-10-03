@@ -1,0 +1,15 @@
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\bin\Debug\net8.0\03_FinishWeek3.exe
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\bin\Debug\net8.0\03_FinishWeek3.deps.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\bin\Debug\net8.0\03_FinishWeek3.runtimeconfig.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\bin\Debug\net8.0\03_FinishWeek3.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\bin\Debug\net8.0\03_FinishWeek3.pdb
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.AssemblyInfoInputs.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.AssemblyInfo.cs
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.csproj.CoreCompileInputs.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.sourcelink.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\refint\03_FinishWeek3.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.pdb
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\03_FinishWeek3.genruntimeconfig.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\FinishWeek2\03_FinishWeek3\obj\Debug\net8.0\ref\03_FinishWeek3.dll
