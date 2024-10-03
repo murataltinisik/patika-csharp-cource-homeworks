@@ -1,0 +1,15 @@
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/bin/Debug/net8.0/_14FinishWeek2
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/bin/Debug/net8.0/_14FinishWeek2.deps.json
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/bin/Debug/net8.0/_14FinishWeek2.runtimeconfig.json
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/bin/Debug/net8.0/_14FinishWeek2.dll
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/bin/Debug/net8.0/_14FinishWeek2.pdb
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.AssemblyInfoInputs.cache
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.AssemblyInfo.cs
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.csproj.CoreCompileInputs.cache
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.sourcelink.json
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.dll
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/refint/_14FinishWeek2.dll
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.pdb
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/_14FinishWeek2.genruntimeconfig.cache
+/Applications/cources/patika-csharp-cource-homeworks/FinishWeek2/_14FinishWeek2/obj/Debug/net8.0/ref/_14FinishWeek2.dll

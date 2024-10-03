@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/cources/patika/MyFirstApp/MyFirstApp.csproj",
+      "projectUniqueName": "/Applications/cources/patika-csharp-cource-homeworks/MyFirstApp/MyFirstApp.csproj",
       "projectName": "MyFirstApp",
-      "projectPath": "/Applications/cources/patika/MyFirstApp/MyFirstApp.csproj",
+      "projectPath": "/Applications/cources/patika-csharp-cource-homeworks/MyFirstApp/MyFirstApp.csproj",
       "packagesPath": "/Users/murataltinisik/.nuget/packages/",
-      "outputPath": "/Applications/cources/patika/MyFirstApp/obj/",
+      "outputPath": "/Applications/cources/patika-csharp-cource-homeworks/MyFirstApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/murataltinisik/.nuget/NuGet/NuGet.Config"
