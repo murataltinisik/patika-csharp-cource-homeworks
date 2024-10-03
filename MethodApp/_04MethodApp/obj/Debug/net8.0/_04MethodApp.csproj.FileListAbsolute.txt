@@ -1,0 +1,15 @@
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\bin\Debug\net8.0\_04MethodApp.exe
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\bin\Debug\net8.0\_04MethodApp.deps.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\bin\Debug\net8.0\_04MethodApp.runtimeconfig.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\bin\Debug\net8.0\_04MethodApp.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\bin\Debug\net8.0\_04MethodApp.pdb
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.AssemblyInfoInputs.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.AssemblyInfo.cs
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.csproj.CoreCompileInputs.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.sourcelink.json
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\refint\_04MethodApp.dll
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.pdb
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\_04MethodApp.genruntimeconfig.cache
+C:\Users\altin\OneDrive\Masaüstü\project\patika-csharp-cource-homeworks\MethodApp\_04MethodApp\obj\Debug\net8.0\ref\_04MethodApp.dll
