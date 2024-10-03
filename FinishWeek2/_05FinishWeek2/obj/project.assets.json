@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\altin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\altin\\OneDrive\\Masaüstü\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\_05FinishWeek2.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\_05FinishWeek2.csproj",
       "projectName": "_05FinishWeek2",
-      "projectPath": "C:\\Users\\altin\\OneDrive\\Masaüstü\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\_05FinishWeek2.csproj",
-      "packagesPath": "C:\\Users\\altin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\altin\\OneDrive\\Masaüstü\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\obj\\",
+      "projectPath": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\_05FinishWeek2.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\altin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,9 +45,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

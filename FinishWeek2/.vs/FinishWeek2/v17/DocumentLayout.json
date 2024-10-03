@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4A6674D-8608-4E30-AB15-1AC0E37627F0}|_06FinishWeek2\\_06FinishWeek2.csproj|c:\\users\\altin\\onedrive\\masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\finishweek2\\_06finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A6674D-8608-4E30-AB15-1AC0E37627F0}|_06FinishWeek2\\_06FinishWeek2.csproj|solutionrelative:_06finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D7C1FC0-A3C9-4019-B3D9-C913C2814D6F}|_12FinishWeek2\\_12FinishWeek2.csproj|c:\\users\\pc\\desktop\\project\\patika-csharp-cource-homeworks\\finishweek2\\_12finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7C1FC0-A3C9-4019-B3D9-C913C2814D6F}|_12FinishWeek2\\_12FinishWeek2.csproj|solutionrelative:_12finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA06E929-5C94-4A9E-B40F-48D72A3292CC}|_05FinishWeek2\\_05FinishWeek2.csproj|c:\\users\\altin\\onedrive\\masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\finishweek2\\_05finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA06E929-5C94-4A9E-B40F-48D72A3292CC}|_05FinishWeek2\\_05FinishWeek2.csproj|solutionrelative:_05finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7152D4-14C6-472B-AD33-5032BFADAC27}|FinishWeek2\\FinishWeek2.csproj|c:\\users\\altin\\onedrive\\masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\finishweek2\\finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7152D4-14C6-472B-AD33-5032BFADAC27}|FinishWeek2\\FinishWeek2.csproj|solutionrelative:finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AAD6691-28E6-4A64-8FD2-D0AE1CB1A0B1}|_11FinishWeek2\\_11FinishWeek2.csproj|c:\\users\\pc\\desktop\\project\\patika-csharp-cource-homeworks\\finishweek2\\_11finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAD6691-28E6-4A64-8FD2-D0AE1CB1A0B1}|_11FinishWeek2\\_11FinishWeek2.csproj|solutionrelative:_11finishweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_06FinishWeek2\\Program.cs",
-              "RelativeDocumentMoniker": "_06FinishWeek2\\Program.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_06FinishWeek2\\Program.cs",
-              "RelativeToolTip": "_06FinishWeek2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_12FinishWeek2\\Program.cs",
+              "RelativeDocumentMoniker": "_12FinishWeek2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_12FinishWeek2\\Program.cs",
+              "RelativeToolTip": "_12FinishWeek2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:38:02.157Z",
+              "WhenOpened": "2024-10-03T15:04:44.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\Program.cs",
-              "RelativeDocumentMoniker": "_05FinishWeek2\\Program.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_05FinishWeek2\\Program.cs",
-              "RelativeToolTip": "_05FinishWeek2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_11FinishWeek2\\Program.cs",
+              "RelativeDocumentMoniker": "_11FinishWeek2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\_11FinishWeek2\\Program.cs",
+              "RelativeToolTip": "_11FinishWeek2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:34:25.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\FinishWeek2\\Program.cs",
-              "RelativeDocumentMoniker": "FinishWeek2\\Program.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Masa\u00FCst\u00FC\\project\\patika-csharp-cource-homeworks\\FinishWeek2\\FinishWeek2\\Program.cs",
-              "RelativeToolTip": "FinishWeek2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:34:22.433Z",
+              "WhenOpened": "2024-10-03T14:59:37.069Z",
               "EditorCaption": ""
             }
           ]
