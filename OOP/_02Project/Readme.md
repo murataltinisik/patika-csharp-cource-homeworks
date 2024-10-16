@@ -2,8 +2,8 @@
 
 ## Class Properties
 1. Name: Define baby name.
-2. Name: Define baby surname.
-3. Name: Define baby birthdate.
+2. Surname: Define baby surname.
+3. DateOfBirth: Define baby birthdate.
 
 All properties have defined getter and setter but getters are public and setters are private because Name and Surname properties are given to Constructor so defined setters are private.
 
