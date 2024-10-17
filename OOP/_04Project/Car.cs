@@ -39,13 +39,13 @@ namespace OOP
             }
         }
 
-        public void GetCarDetail(Car car)
+        public void GetCarDetail()
         {
             Console.WriteLine();
-            Console.WriteLine($"Marka: {car.Brand}");
-            Console.WriteLine($"Model: {car.Model}");
-            Console.WriteLine($"Renk: {car.Color}");
-            if (car.NumberOfDoors > 0) Console.WriteLine($"Kapı Sayısı: {car.NumberOfDoors}");
+            Console.WriteLine($"Marka: {Brand}");
+            Console.WriteLine($"Model: {Model}");
+            Console.WriteLine($"Renk: {Color}");
+            if (NumberOfDoors > 0) Console.WriteLine($"Kapı Sayısı: {NumberOfDoors}");
             Console.WriteLine();
         }
     }
