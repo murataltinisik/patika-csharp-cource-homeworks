@@ -1,0 +1,15 @@
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/bin/Debug/net8.0/_05Project
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/bin/Debug/net8.0/_05Project.deps.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/bin/Debug/net8.0/_05Project.runtimeconfig.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/bin/Debug/net8.0/_05Project.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/bin/Debug/net8.0/_05Project.pdb
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.AssemblyInfoInputs.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.AssemblyInfo.cs
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.csproj.CoreCompileInputs.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.sourcelink.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/refint/_05Project.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.pdb
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/_05Project.genruntimeconfig.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_05Project/obj/Debug/net8.0/ref/_05Project.dll
