@@ -1,0 +1,15 @@
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.AssemblyInfoInputs.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.AssemblyInfo.cs
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.csproj.CoreCompileInputs.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.sourcelink.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/bin/Debug/net8.0/_04Project
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/bin/Debug/net8.0/_04Project.deps.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/bin/Debug/net8.0/_04Project.runtimeconfig.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/bin/Debug/net8.0/_04Project.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/bin/Debug/net8.0/_04Project.pdb
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/refint/_04Project.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.pdb
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/_04Project.genruntimeconfig.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/OOP/_04Project/obj/Debug/net8.0/ref/_04Project.dll
