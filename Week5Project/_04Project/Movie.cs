@@ -28,6 +28,16 @@ public class Movie
         Point = point;
     }
 
+    public static List<Movie> FilteredWhereBetween(List<Movie> movies)
+    {
+        return movies.Where(movie => movie.Point >= 4 && movie.Point <= 9).ToList();
+    }
+    
+    public static List<Movie> FilteredTitleStartWith(List<Movie> movies)
+    {
+        return movies.Where(movie => movie.Title.StartsWith('A')).ToList();
+    }
+
     public override string ToString()
     {
         return $"Film Adı: {Title} - IMBD: {Point}";

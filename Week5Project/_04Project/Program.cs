@@ -49,12 +49,10 @@ Console.WriteLine("-------------------");
 
 // Write All Movies Where IMBD between 4 and 9
 Console.WriteLine("BETWEEN 4 and 9 - MOVIES");
-List<Movie> filteredWhereBetween = movies.Where(movie => movie.Point >= 4 && movie.Point <= 9).ToList();
-foreach (Movie movie in filteredWhereBetween) Console.WriteLine(movie);
+foreach (Movie movie in Movie.FilteredWhereBetween(movies)) Console.WriteLine(movie);
 Console.WriteLine("-------------------");
 
 // Write All Movies Where Title LIKE 'a%'
 Console.WriteLine("Is Start With 'a' Title - MOVIES");
-List<Movie> filteredTitleStartWith = movies.Where(movie => movie.Title.StartsWith('A')).ToList();
-foreach (Movie movie in filteredTitleStartWith) Console.WriteLine(movie);
+foreach (Movie movie in Movie.FilteredTitleStartWith(movies)) Console.WriteLine(movie);
 Console.WriteLine("-------------------");
