@@ -1,4 +1,4 @@
-# Pratik - Lists 1
+# Pratik - Array 1
 
 This is a `array` homework. 
 
