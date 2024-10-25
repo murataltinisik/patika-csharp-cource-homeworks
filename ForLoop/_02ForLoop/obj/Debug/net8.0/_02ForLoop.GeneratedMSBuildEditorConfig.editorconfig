@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _02ForLoop
-build_property.ProjectDir = C:\Users\pc\Desktop\project\patika-csharp-cource-homeworks\ForLoop\_02ForLoop\
+build_property.ProjectDir = /Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/ForLoop/_02ForLoop/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
