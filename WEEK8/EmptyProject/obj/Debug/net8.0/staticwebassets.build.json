@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "nzBVPpsJTH8aBi6QXKNa9UXcX0FQ3J2wAl5fsgCDAQY=",
+  "Hash": "Y7+XuAxGzIDop9uAYAjjHjj/vtxQgoGOn0MAbi4ngrQ=",
   "Source": "EmptyProject",
   "BasePath": "_content/EmptyProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmptyProject/wwwroot",
+      "Source": "EmptyProject",
+      "ContentRoot": "/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK8/EmptyProject/wwwroot/",
+      "BasePath": "_content/EmptyProject",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
