@@ -4,7 +4,7 @@ namespace DependencyInjection.Models;
 
 public class ClassRoom
 {
-    private ITeacher _teacher { get; set; }
+    private readonly ITeacher _teacher;
 
     public ClassRoom(Teacher teacher)
     {
