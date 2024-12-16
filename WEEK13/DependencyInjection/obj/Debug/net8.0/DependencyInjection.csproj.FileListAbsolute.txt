@@ -1,0 +1,15 @@
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/bin/Debug/net8.0/DependencyInjection
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/bin/Debug/net8.0/DependencyInjection.deps.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/bin/Debug/net8.0/DependencyInjection.runtimeconfig.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/bin/Debug/net8.0/DependencyInjection.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/bin/Debug/net8.0/DependencyInjection.pdb
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.AssemblyInfo.cs
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.sourcelink.json
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/refint/DependencyInjection.dll
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.pdb
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/DependencyInjection.genruntimeconfig.cache
+/Users/murataltinisik/Desktop/patika-csharp-cource-homeworks/WEEK13/DependencyInjection/obj/Debug/net8.0/ref/DependencyInjection.dll
