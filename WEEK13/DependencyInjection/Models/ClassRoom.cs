@@ -6,7 +6,7 @@ public class ClassRoom
 {
     private readonly ITeacher _teacher;
 
-    public ClassRoom(Teacher teacher)
+    public ClassRoom(ITeacher teacher)
     {
         _teacher = teacher;   
     }
